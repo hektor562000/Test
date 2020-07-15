@@ -23,8 +23,8 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <InstallUrl>https://github.com/hektor562000/Test/tree/master/WindowsFormsApp1/WindowsFormsApp1/Publish/</InstallUrl>
-    <UpdateUrl>https://github.com/hektor562000/Test/tree/master/WindowsFormsApp1/WindowsFormsApp1/Publish/</UpdateUrl>
+    <InstallUrl>https://github.com/hektor562000/Test/raw/master/WindowsFormsApp1/WindowsFormsApp1/Publish/</InstallUrl>
+    <UpdateUrl>https://github.com/hektor562000/Test/raw/master/WindowsFormsApp1/WindowsFormsApp1/Publish/</UpdateUrl>
     <TargetCulture>fr</TargetCulture>
     <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
     <WebPage>publish.htm</WebPage>
@@ -73,7 +73,7 @@
     <ManifestKeyFile>WindowsFormsApp1_3_TemporaryKey.pfx</ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
-    <GenerateManifests>false</GenerateManifests>
+    <GenerateManifests>true</GenerateManifests>
   </PropertyGroup>
   <PropertyGroup>
     <AssemblyOriginatorKeyFile>WindowsFormsApp1_3_TemporaryKey.pfx</AssemblyOriginatorKeyFile>
