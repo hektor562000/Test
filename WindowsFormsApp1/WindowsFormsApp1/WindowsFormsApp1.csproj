@@ -23,8 +23,8 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <InstallUrl>https://github.com/hektor562000/Test/raw/master/WindowsFormsApp1/WindowsFormsApp1/Publish/</InstallUrl>
-    <UpdateUrl>https://github.com/hektor562000/Test/raw/master/WindowsFormsApp1/WindowsFormsApp1/Publish/</UpdateUrl>
+    <InstallUrl>https://raw.githubusercontent.com/hektor562000/Test/master/WindowsFormsApp1/WindowsFormsApp1/Publish/</InstallUrl>
+    <UpdateUrl>https://raw.githubusercontent.com/hektor562000/Test/master/WindowsFormsApp1/WindowsFormsApp1/Publish/</UpdateUrl>
     <TargetCulture>fr</TargetCulture>
     <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
     <WebPage>publish.htm</WebPage>
