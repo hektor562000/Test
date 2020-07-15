@@ -25,11 +25,14 @@
     <MapFileExtensions>true</MapFileExtensions>
     <InstallUrl>https://github.com/hektor562000/Test/tree/master/WindowsFormsApp1/WindowsFormsApp1/Publish/</InstallUrl>
     <UpdateUrl>https://github.com/hektor562000/Test/tree/master/WindowsFormsApp1/WindowsFormsApp1/Publish/</UpdateUrl>
+    <TargetCulture>fr</TargetCulture>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
     <WebPage>publish.htm</WebPage>
     <AutorunEnabled>true</AutorunEnabled>
     <ApplicationRevision>0</ApplicationRevision>
     <ApplicationVersion>1.0.0.0</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
     <PublishWizardCompleted>true</PublishWizardCompleted>
     <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
