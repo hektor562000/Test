@@ -24,7 +24,6 @@
     <UpdateRequired>true</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
     <InstallUrl>https://raw.githubusercontent.com/hektor562000/Test/master/WindowsFormsApp1/WindowsFormsApp1/Publish/</InstallUrl>
-    <UpdateUrl>https://raw.githubusercontent.com/hektor562000/Test/master/WindowsFormsApp1/WindowsFormsApp1/Publish/</UpdateUrl>
     <TargetCulture>fr</TargetCulture>
     <ProductName>Mon Produit</ProductName>
     <PublisherName>Renan</PublisherName>
