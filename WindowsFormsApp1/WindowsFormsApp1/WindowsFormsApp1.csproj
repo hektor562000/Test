@@ -26,16 +26,17 @@
     <InstallUrl>https://raw.githubusercontent.com/hektor562000/Test/master/WindowsFormsApp1/WindowsFormsApp1/Publish/</InstallUrl>
     <UpdateUrl>https://raw.githubusercontent.com/hektor562000/Test/master/WindowsFormsApp1/WindowsFormsApp1/Publish/</UpdateUrl>
     <TargetCulture>fr</TargetCulture>
+    <ProductName>Mon Produit</ProductName>
+    <PublisherName>Renan</PublisherName>
+    <SuiteName>A Moi</SuiteName>
     <MinimumRequiredVersion>1.0.0.0</MinimumRequiredVersion>
     <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
     <WebPage>publish.htm</WebPage>
     <AutorunEnabled>true</AutorunEnabled>
-    <DisallowUrlActivation>true</DisallowUrlActivation>
     <ApplicationRevision>0</ApplicationRevision>
     <ApplicationVersion>1.0.0.0</ApplicationVersion>
-    <UseApplicationTrust>true</UseApplicationTrust>
+    <UseApplicationTrust>false</UseApplicationTrust>
     <CreateDesktopShortcut>true</CreateDesktopShortcut>
-    <ExcludeDeploymentUrl>true</ExcludeDeploymentUrl>
     <PublishWizardCompleted>true</PublishWizardCompleted>
     <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
